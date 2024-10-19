@@ -3,3 +3,4 @@ kuproq takrorla
 .ssh fayl ochishini
 darsda faol bo'l 
 git hub bilan ko'proq ishla
+c++,c,python...
