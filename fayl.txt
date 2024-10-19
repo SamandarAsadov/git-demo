@@ -1,2 +1,3 @@
 bir-ikkita gap
 kuproq takrorla
+.ssh fayl ochishini
